@@ -1,4 +1,4 @@
-# MY FIRST PACKAGE
+# readme
 [![Build Status](https://travis-ci.org/emilyrmax/myfirstpkg.svg?branch=master)](https://travis-ci.org/emilyrmax/myfirstpkg)
 
 The goal of  is to help me make my first package.
